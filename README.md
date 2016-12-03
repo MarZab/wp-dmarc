@@ -5,7 +5,7 @@ Collects DMARC aggregate reports from a POP/IMAP account and displays a table an
 Does a daily check.
 
 ## Why
-Keeping a eye on email delivery is important, this scripts is a free and easy alternative to the paid services.
+Keeping a eye on email delivery is important, this script is a free and easy alternative to the paid services.
 If you find this usefull and want me to keep working on it, [please buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QP69FUSN3LNY6).
 
 
