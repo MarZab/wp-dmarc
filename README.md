@@ -6,7 +6,7 @@ Does a daily check.
 
 ## Why
 Keeping a eye on email delivery is important, this script is a free and easy alternative to the paid services.
-If you find this usefull and want me to keep working on it, [please buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QP69FUSN3LNY6).
+If you find this useful and want me to keep working on it, [please buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QP69FUSN3LNY6).
 
 
 ## Settings
